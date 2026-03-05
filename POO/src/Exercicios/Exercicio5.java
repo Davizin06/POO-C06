@@ -8,7 +8,6 @@ public class Exercicio5 {
 
         System.out.println("Numero de alunos matriculados em C06: ");
         int matriculas = teclado.nextInt();
-
         switch (matriculas){
 
             case 10:
