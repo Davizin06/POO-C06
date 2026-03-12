@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class Exercicio6 {
-    public static void main(String[] args){
+    static void main(String[] args){
         Scanner teclado = new Scanner(System.in);
         Random aleatorio = new Random();
 

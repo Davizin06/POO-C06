@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int idade = 20;
         long idade1 = idade; //Conversao por promoção
         int idade2 = (int) idade1; // Conversao por Casting
@@ -25,7 +25,7 @@ public class Main {
         char primeiraLetra = faculdade.charAt(0);
 
 
-        char nome[] = {'n', 'o', 'm', 'e'};
+        char[] nome = {'n', 'o', 'm', 'e'};
         // System.out.printf("The character is: %s", String.valueOf(nome));
 
 

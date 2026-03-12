@@ -3,7 +3,7 @@ package Exercicios;
 import java.util.Scanner;
 
 public class Exercicio3 {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         System.out.println("Quantos lanches foram consumidos? ");
         int quantidade = cin.nextInt();

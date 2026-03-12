@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args){
+    static void main(String[] args){
 
         Scanner inatel = new Scanner(System.in);
 

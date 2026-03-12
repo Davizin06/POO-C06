@@ -3,7 +3,7 @@ package Exercicios;
 import java.util.Scanner;
 
 public class Exercicio4 {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
         System.out.println("Entre com um numero: ");

@@ -3,7 +3,7 @@ package Exercicios;
 import java.util.Scanner;
 
 public class Exercicio1_Casting {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Insira a quantidade de lanches na primeira hora: ");
         int primeiraHora = teclado.nextInt();

@@ -1,7 +1,7 @@
 package Aula_Intro_POO;
 
 public class Main {
-    public static void main(String[] args){
+    static void main(String[] args){
         Pessoa Renzo = new Pessoa();
 
         Renzo.nome = "Renzo Mesquita";
