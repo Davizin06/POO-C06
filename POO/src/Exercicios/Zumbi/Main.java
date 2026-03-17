@@ -13,6 +13,7 @@ public class Main {
 
         zumbis.cacar(40);
 
+        System.out.println("===========================");
         System.out.println("Após a caçada meu nivel de inteligencia é: " + zumbis.nivelInteligencia);
     }
 }
